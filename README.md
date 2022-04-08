@@ -5,4 +5,4 @@ Project with test demonstrating issue in [(CAMEL-17925) camel-kafka: "breakOnFir
 ## Versions
 * java 11
 * Spring boot 2.6.6
-* Camel 3.16.0
+* Camel 3.11.6
