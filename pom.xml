@@ -15,7 +15,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <camel.version>3.17.0-SNAPSHOT</camel.version>
+        <camel.version>3.17.0</camel.version>
         <logstash-logback-encoder.version>7.0.1</logstash-logback-encoder.version>
         <scala-lang.version>2.13.3</scala-lang.version>
     </properties>
